@@ -1,5 +1,5 @@
 # mev.py
-![imagen](https://user-images.githubusercontent.com/1957372/226871015-af140cc6-d4e8-4ab9-b281-735e3ee7bec3.png)
+![imagen](https://github.com/bernabeudario/MEV/blob/main/portada.jpg?raw=true)
 
 El programa simula invocar una deidad para que responda nuestras preguntas.
 
